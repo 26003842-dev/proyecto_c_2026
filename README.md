@@ -1,4 +1,4 @@
-# Proyecto_c
+# Conversor
 
 ## Descripción
 
@@ -7,7 +7,7 @@ Este proyecto consiste en desarrollar una aplicación en lenguaje C que permita 
 ## Prerrequisitos
 
 Para ejecutar este proyecto es necesario tener instalado en Ubuntu: Compilador de C (build-essential
-Para intalarlo ejecutamos:
+Para instalarlo ejecutamos:
 
 Sudo apt install build-essential
 
