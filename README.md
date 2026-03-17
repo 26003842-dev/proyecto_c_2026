@@ -1,4 +1,4 @@
-# Proyecto PHP
+# Proyecto_c
 
 ## Descripción
 
