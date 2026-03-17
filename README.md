@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Este proyecto consiste en desarrollar una aplicación en lenguaje C que permita realizar conversiones de moneda entre quetzales, dólares estadounidenses y euros, 
+Este proyecto consiste en desarrollar una aplicación en lenguaje C que permita realizar conversiones de moneda entre quetzales, dólares estadounidenses y euros.
 
 ## Prerrequisitos
 
-Para ejecutar este proyecto es necesario tener instalado en Ubuntu: Compilador de C (build-essential
+Para ejecutar este proyecto es necesario tener instalado en Ubuntu: Compilador de C (build-essential)
 Para instalarlo ejecutamos:
 
 Sudo apt install build-essential
